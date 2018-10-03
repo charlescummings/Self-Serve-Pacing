@@ -26,7 +26,7 @@ def selfserve():
     #Stores .csv output of each ad group in the following path
 
     path = 'C:\Python33\Files\\'
-    path = 'C:Files\\'
+    ##path = 'C:Files\\'
 
     #Enter IDs to be used here
 
